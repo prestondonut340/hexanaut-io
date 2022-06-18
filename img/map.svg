@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <g id="Responsive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Galaxy-S10+" transform="translate(-9.000000, -20.000000)">
+            <g id="Group-10" transform="translate(0.000000, 18.000000)">
+                <g id="Group-8" transform="translate(9.000000, 2.000000)">
+                    <polygon id="Polygon" fill="#FFFFFF" transform="translate(6.000000, 6.000000) rotate(90.000000) translate(-6.000000, -6.000000) " points="6 0 11.1961524 3 11.1961524 9 6 12 0.803847577 9 0.803847577 3"></polygon>
+                    <path d="M8,4.8608235 C8,5.88947749 6.0007761,9 6.0007761,9 C6.07683353,9 4,5.88947749 4,4.8608235 C4,3.83216952 4.89561506,3 6.0007761,3 C7.10438494,3 8,3.83216952 8,4.8608235" id="Fill-28" fill="#CE412D"></path>
+                    <path d="M6,4 C6.55241935,4 7,4.44728005 7,4.99932841 C7,5.55137676 6.55241935,6 6,6 C5.44758065,6 5,5.55137676 5,4.99932841 C5,4.44728005 5.44758065,4 6,4" id="Fill-30" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
